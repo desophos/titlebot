@@ -10,5 +10,5 @@ If you already cloned, run `git submodule update --init --recursive`.
 
 ### To run:
 
-1. On Windows, run `./start.bat`. Otherwise, run `start.sh`.
+1. On Windows, run `./start.bat`. Otherwise, run `./start.sh`.
 2. Open http://localhost:3000 in your browser.
