@@ -5,8 +5,9 @@
 
 ### Setup:
 
-Run `git clone --recurse-submodules https://github.com/desophos/titlebot`.
-If you already cloned, run `git submodule update --init --recursive`.
+Run ```git clone --recurse-submodules https://github.com/desophos/titlebot```
+
+If you already cloned, run ```git submodule update --init --recursive```
 
 ### To run:
 
