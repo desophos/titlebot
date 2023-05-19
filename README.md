@@ -11,7 +11,7 @@ Run:
 git clone --recurse-submodules https://github.com/desophos/titlebot
 ```
 
-If you already cloned, run:
+If you already cloned (or to update submodules), run:
 
 ```
 git submodule update --init --recursive
